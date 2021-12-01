@@ -45,7 +45,7 @@ public class MainActivity extends AppCompatActivity {
      double htPoison=6.1;
      double htRadioactive=7;
      double htCorrosive=8;
-     double htMisc=9;
+     double htMisc=10;
 
 
 
